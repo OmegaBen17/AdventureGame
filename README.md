@@ -1,3 +1,3 @@
-Main
-Window
-Display
+Game loop
+Keyboard input
+FPS

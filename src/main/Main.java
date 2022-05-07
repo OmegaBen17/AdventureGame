@@ -21,6 +21,9 @@ public class Main {
 
         window.setLocationRelativeTo(null);
         window.setVisible(true);
+
+        // CALLS display.run();
+        display.startGameThread();
     }
     
 }
